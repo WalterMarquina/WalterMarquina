@@ -18,7 +18,7 @@ I also work as a FreeLancer 🆓.
 
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 
-Discord; Pavlovich#1881
+  Discord; Pavlovich#1881
 
 <br />
 
