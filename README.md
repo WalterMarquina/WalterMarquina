@@ -17,7 +17,7 @@ I also work as a FreeLancer 🆓.
 ### 📩 Connect with me:
 
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+
 Discord; Pavlovich#1881
 
 <br />
@@ -53,7 +53,6 @@ Discord; Pavlovich#1881
 <br />
 
 [instagram]: https://www.instagram.com/guneyz00/
-[mail]: Pavlovich@null.net
 [flutter]: https://flutter.dev/
 [vsCode]: https://code.visualstudio.com/
 [android]: https://www.android.com/
